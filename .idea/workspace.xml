@@ -25,7 +25,9 @@
     <option name="showStatusBarWidget" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83e95899-4a11-4253-950e-4cf7cdb16e9f" name="Default Changelist" comment="" />
+    <list default="true" id="83e95899-4a11-4253-950e-4cf7cdb16e9f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +103,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558946903135</updated>
-      <workItem from="1576684213956" duration="850000" />
+      <workItem from="1576684213956" duration="1077000" />
     </task>
     <task id="LOCAL-00001" summary="java 11">
       <created>1576684620445</created>
@@ -117,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576684664800</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="java 11">
+      <created>1576685150508</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576685150508</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,10 +137,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="java 11" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="392" y="11" key="CommitChangelistDialog2" timestamp="1576685067898">
+    <state x="392" y="11" key="CommitChangelistDialog2" timestamp="1576685149610">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="392" y="11" key="CommitChangelistDialog2/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1576685067898" />
+    <state x="392" y="11" key="CommitChangelistDialog2/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1576685149610" />
     <state x="550" y="170" key="FileChooserDialogImpl" timestamp="1576684590151">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -140,9 +149,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="250" y="0" key="SettingsEditor/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1576684602155" />
-    <state x="362" y="149" key="Vcs.Push.Dialog.v2" timestamp="1576685071133">
+    <state x="362" y="149" key="Vcs.Push.Dialog.v2" timestamp="1576685342938">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="362" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1576685071133" />
+    <state x="362" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1576685342938" />
+    <state x="479" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1576685312827">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="479" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1576685312827" />
   </component>
 </project>
