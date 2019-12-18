@@ -25,10 +25,7 @@
     <option name="showStatusBarWidget" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83e95899-4a11-4253-950e-4cf7cdb16e9f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="83e95899-4a11-4253-950e-4cf7cdb16e9f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,12 +64,6 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="170" />
-    <option name="y" value="50" />
-    <option name="width" value="3500" />
-    <option name="height" value="1960" />
-  </component>
   <component name="ProjectId" id="1VA7nUyinjyJgJG8EgdShaZn6tB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -110,18 +101,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558946903135</updated>
-      <workItem from="1576684213956" duration="389000" />
+      <workItem from="1576684213956" duration="850000" />
     </task>
+    <task id="LOCAL-00001" summary="java 11">
+      <created>1576684620445</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576684620445</updated>
+    </task>
+    <task id="LOCAL-00002" summary="java 11">
+      <created>1576684664800</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576684664800</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="java 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="java 11" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="392" y="11" key="CommitChangelistDialog2" timestamp="1576684619451">
+    <state x="392" y="11" key="CommitChangelistDialog2" timestamp="1576685067898">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="392" y="11" key="CommitChangelistDialog2/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1576684619451" />
+    <state x="392" y="11" key="CommitChangelistDialog2/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1576685067898" />
     <state x="550" y="170" key="FileChooserDialogImpl" timestamp="1576684590151">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -130,9 +140,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="250" y="0" key="SettingsEditor/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1576684602155" />
-    <state x="362" y="149" key="Vcs.Push.Dialog.v2" timestamp="1576684622212">
+    <state x="362" y="149" key="Vcs.Push.Dialog.v2" timestamp="1576685071133">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="362" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1576684622212" />
+    <state x="362" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1576685071133" />
   </component>
 </project>
