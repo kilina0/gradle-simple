@@ -5,6 +5,12 @@ public class Hello {
   
   public static void main(String []args) {
     System.out.println(GREETING);
+    
+    if (1 < 2 ) 
+        System.out.println("Hello");
+    
+    if (1 < 2 )
+        System.out.println("Hello");
   }  
 }
 
